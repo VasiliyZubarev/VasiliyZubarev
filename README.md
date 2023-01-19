@@ -3,13 +3,13 @@
 ---
 I graduated from Faculty of Biology (Moscow State University) in 2022. 
 Currently my interests are:
-+bioinformatics
-+plant biology
-+marine biology
+- bioinformatics
+- plant biology
+- marine biology
 ---
 #### Contact information
-VK: 
-Telegram: 
+- VK: https://vk.com/id451511171
+- Telegram: https://t.me/vasiliy_zubarev
 
 
 
